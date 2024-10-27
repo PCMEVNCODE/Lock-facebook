@@ -10,7 +10,7 @@ Vietnam:
 Giới thiệu:
 
 Công cụ "Protect your facebook" của chúng tôi sẽ khóa màn hình feabook của bạn và sẽ yêu cầu bạn nhập mật khẩu. Nếu đúng thì sẽ cho phép cho bạn vào và ngược lại.
-
+Bảo khỏi sự truy cập trái phép của ai đó vào.
 LƯU Ý !:
   Công cụ code javascript này chỉ bảo vệ được máy tính của người dùng truy cập facebook và không bảo vệ truy cập account bạn. (Nghĩa là máy tính này truy cập được nhưng khi đăng nhập thiết bị khác thì không bảo vệ được, thiết bị đó vẫn truy cập account của bạn).
   Công cụ chúng tôi sài Tampermokey để lập trình bảo vệ máy tính của bạn. Nếu ai đó biết được bạn bật Tampermonkey hoặc ai rằn Công Nghệ Thông Tin thì sẽ tắt được.
@@ -43,7 +43,7 @@ English:
 Introduction:
 
 Our "Protect your facebook" tool will lock your facebook screen and will ask you to enter the password. If correct, it will allow you to enter and vice versa.
-
+Protect against unauthorized access by someone.
 NOTE!:
 This javascript code tool only protects the user's computer accessing facebook and does not protect your account access. (That means this computer can access but when logging in to another device, it is not protected, that device still accesses your account).
 The tool we use Tampermokey to program to protect your computer. If someone knows you have Tampermonkey turned on or someone calls Information Technology, they will be able to turn it off.
